@@ -80,7 +80,7 @@ module.exports = {
                     
                 }
 
-                coletor.on('end', () => { })
+                
             })
 
         }
